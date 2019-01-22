@@ -2,5 +2,5 @@
 layout: slide
 title : "Welcome dans mon second slide!"
 ---
-HELLOOOOOOO
+Je suis content d'utiliser Gituhub
 Use the left arrow to go back!
